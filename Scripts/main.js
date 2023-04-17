@@ -1,4 +1,4 @@
-const apiKey = 'AIzaSyAe-gH183XcTe3KcEAOVYG4cED-qJL88Ys'; 
+const apiKey = 'paste your api key here'; 
 
 // Get today's date in ISO format (YYYY-MM-DD)
 const today = new Date().toISOString().slice(0, 10);
